@@ -9,32 +9,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b88e319-84c4-4fea-a89f-62b978a499f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KPZExamServer/.idea/efCoreCommonOptions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Controllers/AssignmentController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Data/JournalContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Data/Models/Assignment.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Data/Models/EntityBase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Data/Models/Student.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Data/Models/StudentAssignmentState.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/ExceptionHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/MapperProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Migrations/20221216100801_Initial.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Migrations/20221216100801_Initial.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Migrations/20221216103026_UpdateSAS.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Migrations/20221216103026_UpdateSAS.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Migrations/JournalContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Services/AssignmentService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/Services/IAssignmentService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/ViewModels/AssignmentInsert.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/ViewModels/AssignmentUpdate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/ViewModels/AssignmentView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KPZExamServer/ViewModels/StudentAssignmentStateView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/Components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/Components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/Components/pages/AddEdit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/Components/pages/AddEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPZExamClient/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KPZExamServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KPZExamServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPZExamServer/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPZExamServer/KPZExamServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/KPZExamServer/KPZExamServer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KPZExamServer/Controllers/AssignmentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KPZExamServer/Controllers/AssignmentController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KPZExamServer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KPZExamServer/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPZExamServer/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPZExamServer/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/KPZExamServer/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671179889948</updated>
-      <workItem from="1671179897740" duration="9649000" />
+      <workItem from="1671179897740" duration="15996000" />
     </task>
     <servers />
   </component>
@@ -123,24 +122,5 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/KPZExamServer/Controllers/AssignmentController.cs</url>
-          <line>62</line>
-          <properties documentPath="$PROJECT_DIR$/KPZExamServer/Controllers/AssignmentController.cs" initialLine="62" containingFunctionPresentation="method 'GetSASs'">
-            <startOffsets>
-              <option value="1839" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1903" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

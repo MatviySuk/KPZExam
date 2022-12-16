@@ -42,20 +42,6 @@ public class AssignmentController: ControllerBase
         return NoContent();
     }
 
-    // [HttpPut("remove-lesson")]
-    // public async Task<IActionResult> RemoveLesson(int lessonId, int assignmentId)
-    // {
-    //     await _assignmentService.RemoveLesson(lessonId, assignmentId);
-    //     return Ok();
-    // }
-    //
-    // [HttpPut("add-lesson")]
-    // public async Task<IActionResult> AddLesson(int lessonId, int assignmentId)
-    // {
-    //     await _assignmentService.AddLesson(lessonId, assignmentId);
-    //     return Ok();
-    // }
-
     [HttpGet("{id}/get-sas")]
     public async Task<IActionResult> GetSASs(int id)
     {
